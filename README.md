@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 <p align='center'> blog : https://blog.naver.com/hgstudy </p>
 <p align='center'> github : https://github.com/hgs-study </p>
 <div align='center'>
+  
 ![JAVA](https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white&style=plastic") ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&style=plastic") ![Spring](https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white&style=plastic") ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white&style=plastic") ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&style=plastic")
+  
 </div>
+
 ----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgs-study&show_icons=true&theme=radical)
