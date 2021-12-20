@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 
 ----
 <h3>기술 블로그</h3>
- + [사내 AWS DynamoDB 적용기](https://zuminternet.github.io/DynamoDB)
+
+ + [사내 AWS DynamoDB 적용기 (ERD -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
 
 <br>
 <br>
-<div align='center'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgs-study&show_icons=true&theme=radical)
-
-</div>
+<div align='center'>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgs-study&show_icons=true&theme=radical)</div>
