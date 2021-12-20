@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 <br>
 
 ----
+<h3>기술 블로그</h3>
+ + [사내 AWS DynamoDB 적용기](https://zuminternet.github.io/DynamoDB)
 
+<br>
 <br>
 <div align='center'>
 
