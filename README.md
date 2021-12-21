@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ----
 <h3>기술 블로그</h3>
 
- + [사내 AWS DynamoDB  (RDBMS -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
+ + [사내 AWS DynamoDB 모델링 (RDBMS -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
 
 <br>
 <br>
