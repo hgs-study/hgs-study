@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <h4 align='center'> 도메인을 분리하여 책임을 적절히 나누는 설계와 클린하고 가독성 좋은 코드를 지향합니다. </h4>
 <br>
 <p align='center'> email : hgstudy_@naver.com </p>
-<p align='center'> blog : https://blog.naver.com/hgstudy_ </p>
-<p align='center'> github : https://github.com/hgs-study </p>
+<p align='center'> blog : https://velog.io/@hgs-study / https://blog.naver.com/hgstudy_ </p>
 <br>
 
 ----
