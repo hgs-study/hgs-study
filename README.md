@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
+<h2 align='center'>Pir</h3>
 <h3 align='center'>:pencil2: Backend Web Developer</h3>
 <h4 align='center'> "흉내내는 사람이 아닌, 이해하는 사람이 되자" </h4>
-<h4 align='center'> ZumInternet 핀테크 개발팀 Pir </h4>
+<h4 align='center'> ZumInternet 핀테크 개발팀 </h4>
 <br>
 <p align='center'> email : hgstudy_@naver.com </p>
 <p align='center'> blog : https://velog.io/@hgs-study / https://blog.naver.com/hgstudy_ </p>
