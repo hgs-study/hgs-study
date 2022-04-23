@@ -29,7 +29,12 @@ Here are some ideas to get you started:
 
  + [사내 AWS DynamoDB 적용기 (RDBMS -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
 
+<h3>개발 블로그</h3>
+
+ + [jOOQ 동시성 제어 (PessimisticLock / OptimisticLock)](https://velog.io/@hgs-study/jOOQ-Concurrency-Controll)
+ + [CircuitBreaker를 이용한 외부 API 장애 관리](https://velog.io/@hgs-study/CircuitBreaker)
 <br>
+
 <br>
 
 <div align='center'>
