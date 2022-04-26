@@ -30,6 +30,7 @@ Here are some ideas to get you started:
  + [사내 AWS DynamoDB 적용기 (RDBMS -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
 
 <h3>개발 블로그</h3>
+
  + [Redisson 분산락을 이용한 동시성 제어](https://velog.io/@hgs-study/redisson-distributed-lock)
  + [jOOQ 동시성 제어 (PessimisticLock / OptimisticLock)](https://velog.io/@hgs-study/jOOQ-Concurrency-Controll)
  + [CircuitBreaker를 이용한 외부 API 장애 관리](https://velog.io/@hgs-study/CircuitBreaker)
