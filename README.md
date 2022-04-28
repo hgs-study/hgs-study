@@ -34,6 +34,11 @@ Here are some ideas to get you started:
  + [Redisson 분산락을 이용한 동시성 제어](https://velog.io/@hgs-study/redisson-distributed-lock)
  + [jOOQ 동시성 제어 (PessimisticLock / OptimisticLock)](https://velog.io/@hgs-study/jOOQ-Concurrency-Controll)
  + [CircuitBreaker를 이용한 외부 API 장애 관리](https://velog.io/@hgs-study/CircuitBreaker)
+
+<h3>사내 스터디</h3>
+
+ + [블로그 스터디](https://github.com/zum-study/zum-blog-study)
+ + [Real MySQL 8.0 스터디](https://github.com/hgs-study/real-mysql-study)
 <br>
 
 <br>
