@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h3>사내 스터디</h3>
 
  + [블로그 스터디](https://github.com/zum-study/zum-blog-study)
- + [Real MySQL 8.0 스터디](https://github.com/hgs-study/real-mysql-study)
+ + [Real MySQL 8.0 스터디](https://github.com/zunior-study/real-mysql-study)
 <br>
 
 <br>
