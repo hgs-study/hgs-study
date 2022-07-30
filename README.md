@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 <h3 align='center'>:pencil2: Backend Web Developer</h3>
+<h3 align='center'>Pir</h3>
 <h4 align='center'> "흉내내는 사람이 아닌, 이해하는 사람이 되자" </h4>
 <h4 align='center'> ZumInternet 핀테크 개발팀 </h4>
 <br>
@@ -37,8 +38,9 @@ Here are some ideas to get you started:
 
 <h3>사내 스터디</h3>
 
- + [블로그 스터디](https://github.com/zum-study/zum-blog-study)
  + [Real MySQL 8.0 스터디](https://github.com/zunior-study/real-mysql-study)
+ + [블로그 스터디](https://github.com/zum-study/zum-blog-study)
+  
 <br>
 
 <br>
