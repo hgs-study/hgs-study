@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  + [사내 AWS DynamoDB 적용기 (RDBMS -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
 
 <h3>개발 블로그</h3>
-
+ + [Saga패턴을 이용한 분산 트랜잭션 ](https://velog.io/@hgs-study/saga-1)
  + [Redis를 이용한 기프티콘 선착순 이벤트 구현](https://velog.io/@hgs-study/redis-sorted-set)
  + [Redisson 분산락을 이용한 동시성 제어](https://velog.io/@hgs-study/redisson-distributed-lock)
  + [jOOQ 동시성 제어 (PessimisticLock / OptimisticLock)](https://velog.io/@hgs-study/jOOQ-Concurrency-Controll)
