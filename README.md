@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ----
 <h3>회사 기술 블로그</h3>
+ 
  + [OOP 기반 선착순 투표 시스템 아키텍처](https://zuminternet.github.io/vote-architecture/)
  + [사내 AWS DynamoDB 적용기 (RDBMS -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
 
