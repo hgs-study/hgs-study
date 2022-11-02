@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <br>
 
 ----
-<h3>기술 블로그</h3>
-
+<h3>회사 기술 블로그</h3>
+ + [OOP 기반 선착순 투표 시스템 아키텍처](https://zuminternet.github.io/vote-architecture/)
  + [사내 AWS DynamoDB 적용기 (RDBMS -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
 
-<h3>개발 블로그</h3>
+<h3>개인 블로그</h3>
 
  + [분산 트랜잭션 제어 (Saga Pattern)](https://velog.io/@hgs-study/saga-1)
  + [Redis를 이용한 기프티콘 선착순 이벤트 구현](https://velog.io/@hgs-study/redis-sorted-set)
