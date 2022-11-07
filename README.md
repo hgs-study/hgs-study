@@ -1,19 +1,3 @@
-
-<!--
-### Hi there 👋
-**hgs-study/hgs-study** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br>
 <h3 align='center'>Pir</h3>
 <h4 align='center'> ZumInternet 핀테크 개발팀 </h4>
@@ -39,7 +23,11 @@ Here are some ideas to get you started:
 
  + [Real MySQL 8.0 스터디](https://github.com/zunior-study/real-mysql-study)
  + [블로그 스터디](https://github.com/zum-study/zum-blog-study)
-  
+
+<h3>Contributed</h3>
+
+ + [Redisson](https://github.com/redisson/redisson/pull/4655)
+
 <br>
 
 <br>
