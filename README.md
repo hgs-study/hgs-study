@@ -26,7 +26,7 @@
 
 <h3>Contributed</h3>
 
- + [Redisson](https://github.com/redisson/redisson/pull/4655)
+ + [Redisson - Added testing redis binary path for Mac OS](https://github.com/redisson/redisson/pull/4655)
 
 <br>
 
