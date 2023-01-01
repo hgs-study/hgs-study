@@ -26,7 +26,7 @@
 
 <h3>Contributed</h3>
  
- + [jOOQ - Added pessimistic lock test for springboot example (Not merged yet)](https://github.com/jOOQ/jOOQ/pull/14433)
+ + [jOOQ - Added pessimistic lock test for springboot example (Not merged)](https://github.com/jOOQ/jOOQ/pull/14433)
  + [Redisson - Added testing redis binary path for Mac OS](https://github.com/redisson/redisson/pull/4655)
 
 <br>
