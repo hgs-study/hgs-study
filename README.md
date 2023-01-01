@@ -25,7 +25,8 @@
  + [블로그 스터디](https://github.com/zum-study/zum-blog-study)
 
 <h3>Contributed</h3>
-
+ 
+ + [jOOQ - Added pessimistic lock test for springboot example (Not merged yet)](https://github.com/jOOQ/jOOQ/pull/14433)
  + [Redisson - Added testing redis binary path for Mac OS](https://github.com/redisson/redisson/pull/4655)
 
 <br>
