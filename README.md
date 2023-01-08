@@ -13,6 +13,7 @@
 
 <h3>개인 블로그</h3>
 
+ + [2022년 주니어 개발자 회고](https://velog.io/@hgs-study/2022-log)
  + [분산 트랜잭션 제어 (Saga Pattern)](https://velog.io/@hgs-study/saga-1)
  + [Redis를 이용한 기프티콘 선착순 이벤트 구현](https://velog.io/@hgs-study/redis-sorted-set)
  + [Redisson 분산락을 이용한 동시성 제어](https://velog.io/@hgs-study/redisson-distributed-lock)
