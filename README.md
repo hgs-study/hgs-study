@@ -20,11 +20,6 @@
  + [jOOQ 동시성 제어 (PessimisticLock / OptimisticLock)](https://velog.io/@hgs-study/jOOQ-Concurrency-Controll)
  + [CircuitBreaker를 이용한 외부 API 장애 관리](https://velog.io/@hgs-study/CircuitBreaker)
 
-<h3>사내 스터디</h3>
-
- + [Real MySQL 8.0 스터디](https://github.com/zunior-study/real-mysql-study)
- + [블로그 스터디](https://github.com/zum-study/zum-blog-study)
-
 <h3>Contributed</h3>
  
  + [jOOQ - Added pessimistic lock test for springboot example (Not merged)](https://github.com/jOOQ/jOOQ/pull/14433)
