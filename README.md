@@ -1,6 +1,6 @@
 <br>
 <h3 align='center'>Pir</h3>
-<h4 align='center'> ZumInternet 핀테크 개발팀 </h4>
+<h4 align='center'> ZumInternet 핀테크 개발팀 (Backend Developer) </h4>
 <p align='center'> email : hgstudy_@naver.com </p>
 <p align='center'> blog : https://velog.io/@hgs-study </p>
 <br>
