@@ -1,11 +1,4 @@
-<br>
-<h3 align='center' style='font-weight:bold; font-size:100px'>Pir</h3>
-<h4 align='center'> ZumInternet 핀테크 개발팀 (Backend Developer) </h4>
-<p align='center'> email : hgstudy_@naver.com </p>
-<p align='center'> blog : https://velog.io/@hgs-study </p>
-<br>
 
-----
 ### 회사 기술 블로그
  
  + [OOP 기반 선착순 투표 시스템 아키텍처](https://zuminternet.github.io/vote-architecture/)
