@@ -21,8 +21,9 @@
  + [CircuitBreaker를 이용한 외부 API 장애 관리](https://velog.io/@hgs-study/CircuitBreaker)
 
 <h3>Contributed</h3>
-
-  + [Redisson - Added testing redis binary path for Mac OS](https://github.com/redisson/redisson/pull/4655)
+ 
+ + [Spring AI - Add "embeddingModel" field external injection](https://github.com/spring-projects-experimental/spring-ai/pull/13)
+ + [Redisson - Added testing redis binary path for Mac OS](https://github.com/redisson/redisson/pull/4655)
  + [jOOQ - Added pessimistic lock test for springboot example (Not merged)](https://github.com/jOOQ/jOOQ/pull/14433)
 
 
