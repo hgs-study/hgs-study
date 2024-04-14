@@ -1,7 +1,7 @@
 **회사 기술 블로그**
- 
- + [OOP 기반 선착순 투표 시스템 아키텍처](https://zuminternet.github.io/vote-architecture/)
+
  + [사내 AWS DynamoDB 적용기 (RDBMS -> DynamoDB)](https://zuminternet.github.io/DynamoDB)
+ + [OOP 기반 선착순 투표 시스템 아키텍처](https://zuminternet.github.io/vote-architecture/)
  + [아이들나라 스튜디오 HuggingFace 모델 도입기](https://i-nara.oopy.io/fd1c2d06-59b9-456c-ad73-259beaf1cae1)
 
 **개인 블로그**
